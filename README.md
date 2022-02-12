@@ -20,16 +20,16 @@ Install Cart_Commerce_React project with npm
 ## Screenshots
 
 Here are Screenshots without using api ...
-![Without API](Imgs/withoutAPI1.png)
-![Without API](Imgs/withoutAPI2.png)
+![Without API](/Imgs/withoutAPI1.png)
+![Without API](/Imgs/withoutAPI2.png)
 
 Screenshots with API . . .
-![with API](Imgs/withAPI.png)
+![with API](/Imgs/withAPI.png)
 
 Cart Screenshot 
-![Cart](Imgs/cart.png)
+![Cart](/Imgs/cart.png)
 
 Empty Cart Screenshot
-![Empty Cart](Imgs/emptyCart.png)
+![Empty Cart](/Imgs/emptyCart.png)
 
 
